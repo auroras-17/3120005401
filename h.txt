@@ -1,0 +1,16 @@
+The origin text:C:\Users\Xms\Desktop\Final%20commit\orig.txt
+The compared text:C:\Users\Xms\Desktop\Final%20commit\orig-add.txt
+The compare result is: 9.4%
+
+The origin text:C:\Users\Xms\Desktop\Final%20commit\orig.txt
+The compared text:C:\Users\Xms\Desktop\Final%20commit\orig-add.txt
+The compare result is: 28.9%
+
+The origin text:C:\Users\Xms\Desktop\Final%20commit\orig.txt
+The compared text:C:\Users\Xms\Desktop\Final%20commit\orig-add.txt
+The compare result is: 100%
+
+The origin text:C:\Users\Xms\Desktop\Final%20commit\orig.txt
+The compared text:C:\Users\Xms\Desktop\Final%20commit\orig-add.txt
+The compare result is: 63%
+

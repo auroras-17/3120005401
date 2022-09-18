@@ -1,0 +1,60 @@
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
+The origin text:C:\Users\Xms\Desktop\论文查重\txt\orig.txt
+The compared text:C:\Users\Xms\Desktop\论文查重\txt\orig-add.txt
+The compare result is: 63%
+
